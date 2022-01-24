@@ -1,0 +1,11 @@
+{
+  "name": "mevn",
+  "version": "1.0.0",
+  "description": "this is first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "whalebap",
+  "license": "ISC"
+}
